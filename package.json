@@ -1,0 +1,29 @@
+{
+    "name": "markdown-gfm-pack",
+    "displayName": "markdown.gfm.pack",
+    "description": "Github & Gitlab Flavoured Markdown Essentials",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "bierner.markdown-preview-github-styles",
+        "bierner.markdown-yaml-preamble",
+        "bierner.markdown-checkbox",
+        "bierner.markdown-emoji",
+        "bierner.markdown-footnotes",
+        "bierner.markdown-mermaid",
+        "esbenp.prettier-vscode",
+        "goessner.mdmath",
+        "DavidAnson.vscode-markdownlint",
+        "mdickin.markdown-shortcuts",
+        "huntertran.auto-markdown-toc",
+        "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+        "csholmq.excel-to-markdown-table",
+        "docsmsft.docs-images",
+        "streetsidesoftware.code-spell-checker"
+    ]
+}
