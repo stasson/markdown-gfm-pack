@@ -29,6 +29,7 @@
         "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
         "csholmq.excel-to-markdown-table",
         "docsmsft.docs-images",
-        "streetsidesoftware.code-spell-checker"
+        "streetsidesoftware.code-spell-checker",
+        "jebbs.plantuml"
     ]
 }
