@@ -2,9 +2,12 @@
     "name": "markdown-gfm-pack",
     "displayName": "markdown.gfm.pack",
     "description": "Github & Gitlab Flavoured Markdown Essentials",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "stasson-vscode",
-    "repository": {"url": "https://github.com/stasson/markdown-gfm-pack"},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/stasson/markdown-gfm-pack"
+    },
     "engines": {
         "vscode": "^1.47.0"
     },
